@@ -65,6 +65,7 @@ menu_utama()
 # cara mengetahui apakah input sudah masuk ke file csv pada kolom sekian
 # cara menghitung banyak data yang sama dalam 1 kolom file csv dari baris pertama-akhir
 
+print("")
 def hasil_voting():
     print("CALON 1")
     print("{}, JUMLAH SUARA : {}".format("NAMA", "<jumlah>"))
